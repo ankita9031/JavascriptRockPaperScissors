@@ -1,0 +1,22 @@
+body{
+    background-color: #4383c3;
+    color: white;
+}
+
+div#player1, div#computer{
+    width: 48%;
+    display: inline-block;
+    text-align: center;
+    padding: 12px;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+
+img{
+    width:30%;
+    height: 240px;
+    display: inline;
+}
+
